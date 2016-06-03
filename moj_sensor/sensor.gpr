@@ -1,0 +1,6 @@
+project Sensor is
+
+   for Main use ("sensor.adb");
+
+end Sensor;
+

@@ -1,0 +1,24 @@
+[GENERATED OBJECT FILE]
+b__main.o
+[PROJECT FILES]
+C:\Users\Nikodem\Desktop\SW_STM32F4_Ada\model\model.gpr
+20160603182006
+[BOUND OBJECT FILES]
+C:\Users\Nikodem\Desktop\SW_STM32F4_Ada\model\obj\model.o
+C:\Users\Nikodem\Desktop\SW_STM32F4_Ada\model\obj\main.o
+[GENERATED SOURCE FILES]
+b__main.ads
+b__main.adb
+b__main.ali
+[RESULTING OPTIONS]
+-LC:\Users\Nikodem\Desktop\SW_STM32F4_Ada\model\obj\
+-LC:\Users\Nikodem\Desktop\SW_STM32F4_Ada\model\obj\
+-LD:/gnat/2015/lib/gcc/i686-pc-mingw32/4.9.3/adalib/
+-static
+-static-libgcc
+D:/gnat/2015/lib/gcc/i686-pc-mingw32/4.9.3/adalib/libgnarl.a
+D:/gnat/2015/lib/gcc/i686-pc-mingw32/4.9.3/adalib/libgnat.a
+-lws2_32
+-Xlinker
+--stack=0x200000,0x1000
+-mthreads

@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<Locations >
+  <Project>
+    <vfs_file>C:\Users\Nikodem\Desktop\SW_STM32F4_Ada\model\model.gpr</vfs_file>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\Nikodem\Desktop\SW_STM32F4_Ada\model\model.gpr</vfs_project>
+      <vfs_file>C:\Users\Nikodem\Desktop\SW_STM32F4_Ada\model\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 1" line=" 1" >
+      <vfs_project>C:\Users\Nikodem\Desktop\SW_STM32F4_Ada\model\model.gpr</vfs_project>
+      <vfs_file>C:\Users\Nikodem\Desktop\SW_STM32F4_Ada\model\src\model.adb</vfs_file>
+    </file_marker>
+  </Project>
+  <Project >
+    <vfs_file >C:\Users\Nikodem\Desktop\przemek_model_kontroler\model\model.gpr</vfs_file>
+    <file_marker column=" 1" line=" 1">
+      <vfs_project >C:\Users\Nikodem\Desktop\przemek_model_kontroler\model\model.gpr</vfs_project>
+      <vfs_file >C:\Users\Nikodem\Desktop\przemek_model_kontroler\model\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 2">
+      <vfs_project >C:\Users\Nikodem\Desktop\przemek_model_kontroler\model\model.gpr</vfs_project>
+      <vfs_file >C:\Users\Nikodem\Desktop\przemek_model_kontroler\model\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 13" line=" 1">
+      <vfs_project >C:\Users\Nikodem\Desktop\przemek_model_kontroler\model\model.gpr</vfs_project>
+      <vfs_file >C:\Users\Nikodem\Desktop\przemek_model_kontroler\model\src\model.adb</vfs_file>
+    </file_marker>
+  </Project>
+  <Project >
+    <file_marker column=" 1" line=" 1">
+      <vfs_project >C:\Users\Nikodem\Desktop\przemek_model_kontroler\model\model.gpr</vfs_project>
+      <vfs_file >C:\Users\Nikodem\Desktop\przemek_model_kontroler\model\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 2">
+      <vfs_project >C:\Users\Nikodem\Desktop\przemek_model_kontroler\model\model.gpr</vfs_project>
+      <vfs_file >C:\Users\Nikodem\Desktop\przemek_model_kontroler\model\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 13" line=" 1">
+      <vfs_project >C:\Users\Nikodem\Desktop\przemek_model_kontroler\model\model.gpr</vfs_project>
+      <vfs_file >C:\Users\Nikodem\Desktop\przemek_model_kontroler\model\src\model.adb</vfs_file>
+    </file_marker>
+  </Project>
+</Locations>

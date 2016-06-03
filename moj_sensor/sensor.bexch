@@ -1,0 +1,24 @@
+[GENERATED OBJECT FILE]
+b__sensor.o
+[PROJECT FILES]
+C:\Users\Nikodem\Desktop\moj_sensor\sensor.gpr
+20160531201242
+[BOUND OBJECT FILES]
+C:\Users\Nikodem\Desktop\moj_sensor\sensor_pak.o
+C:\Users\Nikodem\Desktop\moj_sensor\sensor.o
+[GENERATED SOURCE FILES]
+b__sensor.ads
+b__sensor.adb
+b__sensor.ali
+[RESULTING OPTIONS]
+-LC:\Users\Nikodem\Desktop\moj_sensor\
+-LC:\Users\Nikodem\Desktop\moj_sensor\
+-LD:/gnat/2015/lib/gcc/i686-pc-mingw32/4.9.3/adalib/
+-static
+-static-libgcc
+D:/gnat/2015/lib/gcc/i686-pc-mingw32/4.9.3/adalib/libgnarl.a
+D:/gnat/2015/lib/gcc/i686-pc-mingw32/4.9.3/adalib/libgnat.a
+-lws2_32
+-Xlinker
+--stack=0x200000,0x1000
+-mthreads

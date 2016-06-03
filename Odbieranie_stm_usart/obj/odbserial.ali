@@ -1,0 +1,145 @@
+V "GNAT Lib v2015"
+M P W=b
+A -gnatA
+A -mtune=generic
+A -march=pentiumpro
+P SS ZX
+
+RN
+RV NO_DELAY
+RV NO_IO
+RV NO_SECONDARY_STACK
+RV NO_STREAMS
+RV NO_DEFAULT_INITIALIZATION
+RV NO_IMPLEMENTATION_ATTRIBUTES
+RV NO_IMPLEMENTATION_PRAGMAS
+RV SPARK_05
+
+U odbserial%b		odbserial.adb		3096819c NE OO SU
+W ada%s			ada.ads			ada.ali
+W ada.integer_text_io%s	a-inteio.ads		a-inteio.ali
+W ada.numerics%s	a-numeri.ads		a-numeri.ali
+W ada.numerics.float_random%s  a-nuflra.adb	a-nuflra.ali
+W ada.real_time%s	a-reatim.adb		a-reatim.ali
+W ada.real_time.delays%s  a-retide.adb		a-retide.ali
+W ada.streams%s		a-stream.adb		a-stream.ali
+W ada.tags%s		a-tags.adb		a-tags.ali
+W ada.text_io%s		a-textio.adb		a-textio.ali
+W gnat%s		gnat.ads		gnat.ali
+W gnat.serial_communications%s  g-sercom.adb	g-sercom.ali
+W system.concat_2%s	s-conca2.adb		s-conca2.ali
+W system.concat_3%s	s-conca3.adb		s-conca3.ali
+W system.img_lli%s	s-imglli.adb		s-imglli.ali
+W system.secondary_stack%s  s-secsta.adb	s-secsta.ali
+W system.strings.stream_ops%s  s-ststop.adb	s-ststop.ali
+
+D ada.ads		20150518132148 3ffc8e18 ada%s
+D a-except.ads		20150518132148 5250cb69 ada.exceptions%s
+D a-finali.ads		20150518132148 69f99942 ada.finalization%s
+D a-inteio.ads		20150518132148 f64b89a4 ada.integer_text_io%s
+D a-ioexce.ads		20150518132148 e4a01f64 ada.io_exceptions%s
+D a-numeri.ads		20150518132148 bb51c45a ada.numerics%s
+D a-nuflra.ads		20150518132148 49c50e0b ada.numerics.float_random%s
+D a-reatim.ads		20150518132148 a5838d5a ada.real_time%s
+D a-retide.ads		20150518132148 081cdaa4 ada.real_time.delays%s
+D a-stream.ads		20150518132148 119b8fb3 ada.streams%s
+D a-tags.ads		20150518132148 dc4d0634 ada.tags%s
+D a-textio.ads		20150518132148 386df5d4 ada.text_io%s
+D a-tiinio.ads		20150518132148 aa04e5d6 ada.text_io.integer_io%s
+D a-unccon.ads		20150518132148 f9eb8f06 ada.unchecked_conversion%s
+D a-uncdea.ads		20150518132148 f15a5ed1 ada.unchecked_deallocation%s
+D gnat.ads		20150518132148 fd2ad2f1 gnat%s
+D g-sercom.ads		20160527131222 28394732 gnat.serial_communications%s
+D interfac.ads		20150518132148 6033a23f interfaces%s
+D i-c.ads		20150518132148 5421119b interfaces.c%s
+D i-cstrin.ads		20150518132148 341d0ddf interfaces.c.strings%s
+D i-cstrea.ads		20150518132148 e53d8b8e interfaces.c_streams%s
+D odbserial.adb		20160602215928 e982ead5 odbserial%b
+D system.ads		20150518132150 f4ce8c3a system%s
+D s-atacco.ads		20150518132148 4c36d12f system.address_to_access_conversions%s
+D s-conca2.ads		20150518132148 02a0d7d0 system.concat_2%s
+D s-conca3.ads		20150518132148 0b705ca5 system.concat_3%s
+D s-crtl.ads		20150518132148 0ebbdb71 system.crtl%s
+D s-exctab.ads		20150518132148 54135002 system.exception_table%s
+D s-ficobl.ads		20150518132148 078245e4 system.file_control_block%s
+D s-finmas.ads		20150518132148 814daec4 system.finalization_masters%s
+D s-finroo.ads		20150518132148 4ff27390 system.finalization_root%s
+D s-imglli.ads		20150518132150 114f55d1 system.img_lli%s
+D s-multip.ads		20150518132150 38ac9f73 system.multiprocessors%s
+D s-osinte.ads		20150518132150 2e5b26a9 system.os_interface%s
+D s-parame.ads		20150518132150 7e2a0d7f system.parameters%s
+D s-pooglo.ads		20150518132150 542f33d0 system.pool_global%s
+D s-rannum.ads		20150518132150 99ade2f2 system.random_numbers%s
+D s-secsta.ads		20150518132150 86a2856d system.secondary_stack%s
+D s-soflin.ads		20150518132150 aa763b52 system.soft_links%s
+D s-stache.ads		20150518132150 a37c21ec system.stack_checking%s
+D s-stausa.ads		20150518132150 017a0a05 system.stack_usage%s
+D s-stalib.ads		20150518132150 fa0a3617 system.standard_library%s
+D s-stoele.ads		20150518132150 2dc34a04 system.storage_elements%s
+D s-stopoo.ads		20150518132150 b16154c2 system.storage_pools%s
+D s-string.ads		20150518132150 8fe54fb7 system.strings%s
+D s-ststop.ads		20150518132150 e6693757 system.strings.stream_ops%s
+D s-tasinf.ads		20150518132150 601f6b72 system.task_info%s
+D s-taspri.ads		20150518132150 6c1d93d4 system.task_primitives%s
+D s-taprop.ads		20150518132150 1dd2e1b6 system.task_primitives.operations%s
+D s-taskin.ads		20150518132150 339749f0 system.tasking%s
+D s-traent.ads		20150518132150 005bf670 system.traceback_entries%s
+D s-unstyp.ads		20150518132150 9d58a4c0 system.unsigned_types%s
+D s-wchcon.ads		20150518132150 1b7d22d2 system.wch_con%s
+D s-win32.ads		20150518132150 b7f96285 system.win32%s
+X 1 ada.ads
+16K9*Ada 19e8 22|3w6 3r15 5r6 6r6 7r6 9r6 10r5 11r6 12r5 21r15 22r23 22r50
+. 31r16
+X 4 a-inteio.ads
+18K13*Integer_Text_IO[13|46] 22|6w10
+X 6 a-numeri.ads
+16K13*Numerics 32e17 22|9r10 10r9
+X 7 a-nuflra.ads
+41K22*Float_Random 72e30 22|9w19 10r18
+X 8 a-reatim.ads
+39K13*Real_Time 146e18 22|11w10 12r9 21r19 22r27 22r54 31r20
+45O9*Time<duration> 22|21r29
+50O9*Time_Span<duration> 22|22r37
+57V13*Clock{45O9} 22|31s30
+59V14*"+"{45O9} 22|45s31
+89V13*Milliseconds{50O9} 22|22s64
+X 10 a-stream.ads
+36K13*Streams 87e16 22|7w10 17r11 19r10
+42M9*Stream_Element
+44I9*Stream_Element_Offset<long_long_integer> 22|19r18
+54A9*Stream_Element_Array(42M9)<44I9> 22|17r19
+X 12 a-textio.ads
+49K13*Text_IO 471e16 22|5w10 25r19 29r4 33r3 39r10 42r13 44r10 50r3
+242U14*Put 22|42s21
+263U14*Put_Line 22|25s27 29s12 33s11 39s18 44s18 50s11
+X 16 gnat.ads
+34K9*GNAT 37e9 22|4w6 4r16 8r6 8r38
+X 17 g-sercom.ads
+37K14*Serial_Communications 140e31 22|8w11 8r43 36r10
+42A9*Port_Name<string>(character)<integer>
+45V13*Name{42A9} 22|26s31
+54n31*B115200{52E9} 22|27r29
+69R9*Serial_Port<10|39R9> 123e14 22|15r18
+71U14*Open 22|26s4
+72r7 Port{69R9} 22|26r9
+73a7 Name{42A9} 22|26r22
+77U14*Set 22|27s4
+78r7 Port{69R9} 22|27r8
+79e7 Rate{52E9} 22|27r22
+99U25*Read<10|57p14> 22|36s32
+113U14*Close 22|51s3
+X 22 odbserial.adb
+14U11*OdbSerial 14b11 52l5 52t14
+15r4 SP1{17|69R9} 26m17 27r16 30m17 30r17 36m37 36r37 51m9 51r9
+16a4 Nazwa{string} 25r68
+17a4 Buf{10|54A9} 36m42 42r40
+18a4 BufS{string} 30m29 30r29 33r31
+19i4 Las{10|44I9} 36m47 37r28 39r44 40r22
+21o4 Nastepny{8|45O9} 31m4 45m10 45r22 46r22
+22o4 Okres{8|50O9} 45r33
+23b4 debug{boolean} 25r7
+40i14 i<long_long_integer> 42r44
+X 41 s-stausa.ads
+203U14*Initialize 204i<c,__gnat_stack_usage_initialize>22
+268U14*Output_Results 272i<c,__gnat_stack_usage_output_results>22
+
